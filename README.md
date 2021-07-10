@@ -16,5 +16,6 @@
 - 🔥 Ruby
 - 🔥 TypeScript
 - 🔥 PHP
-
+- 🔥 BATCHFILE
+- 🔥 SHELL
 
