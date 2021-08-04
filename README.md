@@ -18,4 +18,5 @@
 - 🔥 PHP
 - 🔥 BATCHFILE
 - 🔥 SHELL
+- 🔥 Vue
 
