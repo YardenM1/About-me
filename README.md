@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yardenggyt
-- 👀 I’m interested in general development
-- 📫 How to reach me | discord: yarden#5644
+- 👀 Full Stack Developer
+- 📫 How to reach me | discord: Yarden#0001
 - 🔥 I’m working in those languages:
 - 🔥 C# 
 - 🔥 C++
