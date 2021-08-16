@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yardenggyt
+- 👋 Hi, I’m Yarden
 - 👀 Full Stack Developer
 - 📫 How to reach me | discord: Yarden#0001
 - 🔥 I’m working in those languages:
