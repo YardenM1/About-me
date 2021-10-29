@@ -19,4 +19,21 @@
 - 🔥 BATCHFILE
 - 🔥 SHELL
 - 🔥 Vue
+- 🔥 Swift
+- 🔥 Swift UI
+- 🔥 Kotlin
+- 🔥 BASIC
+- 🔥 React Native
+- 🔥 Flutter
+- 🔥 React
+- 🔥 VBScript
+- 🔥 ReactJS
+- 🔥 AngularJS
+- 🔥 Perl
+- 🔥 MySql
+- 🔥 MongoDB
+- 🔥 sdk
+
+ 
+
 
