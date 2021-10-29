@@ -32,7 +32,7 @@
 - 🔥 Perl
 - 🔥 MySql
 - 🔥 MongoDB
-- 🔥 sdk
+- 🔥 SDK
 
  
 
