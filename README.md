@@ -2,38 +2,53 @@
 - 👀 Full Stack Developer
 - 📫 How to reach me | discord: Yarden#0001
 - 🔥 I’m working in those languages:
-- 🔥 C# 
+- 🔥 C#
 - 🔥 C++
 - 🔥 Objective-C++
-- 🔥 Java 
 - 🔥 JavaScript
-- 🔥 Node.JS
 - 🔥 Lua
-- 🔥 CSS 
+- 🔥 CSS
 - 🔥 SCSS
 - 🔥 HTML
-- 🔥 Phyton
-- 🔥 Ruby
 - 🔥 TypeScript
-- 🔥 PHP
 - 🔥 BATCHFILE
 - 🔥 SHELL
-- 🔥 Vue
-- 🔥 Swift
-- 🔥 Swift UI
 - 🔥 Kotlin
 - 🔥 BASIC
-- 🔥 React Native
 - 🔥 Flutter
-- 🔥 React
 - 🔥 VBScript
-- 🔥 ReactJS
-- 🔥 AngularJS
 - 🔥 Perl
+
+- 🔥``Back-End``
+- 🔥 PHP
+- 🔥 Python
+- 🔥 Node.JS
+- 🔥 Ruby
+- 🔥 ASP.NET
+
+- 🔥``DevOps``
+- 🔥 AWS
+- 🔥 NGINX
+- 🔥 AZURE
+- 🔥 ELK
+- 🔥 VMWare
+
+- 🔥``DataBases``
 - 🔥 MySql
 - 🔥 MongoDB
+- 🔥 CouchDB
+
+- 🔥``FrameWorks``
+- 🔥 React
+- 🔥 Angular
+- 🔥 React
+- 🔥 Vue
+- 🔥 Webpack
+
+- 🔥``Mobile``
 - 🔥 SDK
-
- 
-
+- 🔥 Swift
+- 🔥 Swift UI
+- 🔥 React Native
+- 🔥 Java
 
